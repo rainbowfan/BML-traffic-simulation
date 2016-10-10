@@ -1,0 +1,9 @@
+Package: BMLmodel
+Type: Package
+Title: Traffic Simulations by BML Model
+Version: 1.0
+Date: 2015-05-01
+Author: Hong Fan
+Maintainer: Hong Fan <honfan@ucdavis.edu>
+Description: This package is used for traffic simulations and further investigate the effects of cars density and grid sizes on traffic behaviors. 
+License: GPL-2

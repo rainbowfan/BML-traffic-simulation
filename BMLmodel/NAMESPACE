@@ -1,0 +1,6 @@
+export(CreateGrid)
+export(RunBMLgrid)
+
+
+S3method(plot, "BMLgrid")
+S3method(summary, "BMLgrid")
